@@ -30,7 +30,7 @@ Now click the "Preview in 3D" button to view your generated design on a live 3D 
 
 ![avatar](../static/img/avatar.PNG)
 
-And finally you can generate your avatar by clicking on "Show avatar" buttton.
+And you can generate your avatar by clicking on "Show avatar" buttton.
 
 Else, if you have your own design in your mind, you can generate that by giving prompts as follows:
 
