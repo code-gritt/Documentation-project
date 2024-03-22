@@ -64,13 +64,20 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: "img/docusaurus-social-card.jpg",
+      image: "img/niiaLogo.png",
       navbar: {
+        logo: {
+          alt: "niia Logo",
+          src: "img/niiaLogo.png",
+          srcDark: "img/niiaLogo.png",
+          href: "https://niia.ai/",
+          target: "_self",
+        },
         items: [
           {
             type: "docSidebar",
             sidebarId: "tutorialSidebar",
-            position: "left",
+            position: "right",
             label: "Docs",
           },
         ],
