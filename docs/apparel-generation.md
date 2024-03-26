@@ -38,4 +38,4 @@ Else, if you have your own design in your mind, you can generate by giving promp
 
 ![prompt](../static/img/prompt.PNG)
 
-And viola! The design is generated as per your input prompt.
+And voila! The design is generated as per your input prompt.
